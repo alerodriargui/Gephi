@@ -1,0 +1,32 @@
+{
+  "anonymous_contributors": 2166,
+  "bots": 3,
+  "contributors": 3383,
+  "following_collection_statuses": {
+    "complete": 1161,
+    "unavailable": 53
+  },
+  "following_edges_between_contributors": 5563,
+  "generated_at": "2026-06-07T14:03:33.885690+00:00",
+  "github_accounts": 1217,
+  "limitations": [
+    "Only public GitHub data is collected.",
+    "Unavailable or hidden following tabs cannot be reconstructed.",
+    "Following edges are restricted to users in the contributor set.",
+    "Anonymous commit emails are used only to create a local hash and are never exported."
+  ],
+  "project_membership_edges": 3437,
+  "repository_contribution_rows": 3868,
+  "scope": {
+    "bitcoin": [
+      "bitcoin/bitcoin"
+    ],
+    "ethereum": [
+      "ethereum/go-ethereum"
+    ],
+    "solana": [
+      "solana-labs/solana",
+      "anza-xyz/agave"
+    ]
+  }
+}
